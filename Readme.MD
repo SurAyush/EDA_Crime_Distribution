@@ -106,6 +106,13 @@ This project focuses on Exploratory Data Analysis (EDA) of crime data in India t
 ![Crime Trends Over Year By Domain](./assets/crime_trends_overyear.png)
 
 
+## Conclusions
+
+- Metropolitan cities have higher crime rates, and younger individuals are more frequently victims of crimes.
+- There is a noticeable gender disparity in victimization rates, with more female victims.
+- The distribution of police deployment is similar for both open and closed cases, suggesting that deployment numbers do not drastically differ between the two case statuses.
+- Understanding the distribution of case closure durations can help in identifying bottlenecks and improving the efficiency of case resolution processes.
+- Advanced insights reveal distinct patterns of crime concentration and trends over time, which can help in developing targeted strategies for crime prevention and resource allocation.
 
 ## Future Work
 
